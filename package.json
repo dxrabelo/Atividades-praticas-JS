@@ -1,0 +1,23 @@
+{
+  "name": "aula-pratica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxrabelo/6.8-JS4---Atividade-Pr-tica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dxrabelo/6.8-JS4---Atividade-Pr-tica/issues"
+  },
+  "homepage": "https://github.com/dxrabelo/6.8-JS4---Atividade-Pr-tica#readme",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
